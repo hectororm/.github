@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gethectororm.com">
-    <img src="https://gethectororm.com/favicon.svg" alt="Berlioz Framework" width="80">
+    <img src="https://gethectororm.com/favicon.svg" alt="Hector ORM" width="80">
   </a>
 </p>
 
